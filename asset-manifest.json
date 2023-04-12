@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geo-wiget/static/css/main.14b60291.css",
+    "main.js": "/geo-wiget/static/js/main.ed545cb9.js",
+    "index.html": "/geo-wiget/index.html",
+    "main.14b60291.css.map": "/geo-wiget/static/css/main.14b60291.css.map",
+    "main.ed545cb9.js.map": "/geo-wiget/static/js/main.ed545cb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14b60291.css",
+    "static/js/main.ed545cb9.js"
+  ]
+}
